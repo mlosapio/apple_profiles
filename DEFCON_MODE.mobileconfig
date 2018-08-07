@@ -6,15 +6,45 @@
 	<array>
 		<dict>
 			<key>PayloadDescription</key>
+			<string>Configures passcode settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Passcode</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.mobiledevice.passwordpolicy.A4F915E1-A5EF-4F4D-9D63-63A054136793</string>
+			<key>PayloadType</key>
+			<string>com.apple.mobiledevice.passwordpolicy</string>
+			<key>PayloadUUID</key>
+			<string>A4F915E1-A5EF-4F4D-9D63-63A054136793</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>allowSimple</key>
+			<false/>
+			<key>forcePIN</key>
+			<true/>
+			<key>maxFailedAttempts</key>
+			<integer>5</integer>
+			<key>maxGracePeriod</key>
+			<integer>0</integer>
+			<key>maxInactivity</key>
+			<integer>1</integer>
+			<key>minComplexChars</key>
+			<integer>1</integer>
+			<key>minLength</key>
+			<integer>5</integer>
+			<key>requireAlphanumeric</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>PayloadDescription</key>
 			<string>Configures restrictions</string>
 			<key>PayloadDisplayName</key>
 			<string>Restrictions</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.applicationaccess.2FC4A369-6BFD-4D7F-BADC-C46F9476E4E1</string>
+			<string>com.apple.applicationaccess.428A0F08-F374-416C-8FE5-3C5CD167F2EC</string>
 			<key>PayloadType</key>
 			<string>com.apple.applicationaccess</string>
 			<key>PayloadUUID</key>
-			<string>2FC4A369-6BFD-4D7F-BADC-C46F9476E4E1</string>
+			<string>428A0F08-F374-416C-8FE5-3C5CD167F2EC</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>allowActivityContinuation</key>
@@ -34,7 +64,7 @@
 			<key>allowAppCellularDataModification</key>
 			<true/>
 			<key>allowAppInstallation</key>
-			<false/>
+			<true/>
 			<key>allowAppRemoval</key>
 			<true/>
 			<key>allowAssistant</key>
@@ -44,7 +74,7 @@
 			<key>allowAutoCorrection</key>
 			<true/>
 			<key>allowAutomaticAppDownloads</key>
-			<true/>
+			<false/>
 			<key>allowBluetoothModification</key>
 			<false/>
 			<key>allowBookstore</key>
@@ -98,7 +128,7 @@
 			<key>allowHostPairing</key>
 			<false/>
 			<key>allowInAppPurchases</key>
-			<true/>
+			<false/>
 			<key>allowKeyboardShortcuts</key>
 			<true/>
 			<key>allowLockScreenControlCenter</key>
@@ -222,36 +252,6 @@
 			<key>safariForceFraudWarning</key>
 			<false/>
 		</dict>
-		<dict>
-			<key>PayloadDescription</key>
-			<string>Configures passcode settings</string>
-			<key>PayloadDisplayName</key>
-			<string>Passcode</string>
-			<key>PayloadIdentifier</key>
-			<string>com.apple.mobiledevice.passwordpolicy.A4F915E1-A5EF-4F4D-9D63-63A054136793</string>
-			<key>PayloadType</key>
-			<string>com.apple.mobiledevice.passwordpolicy</string>
-			<key>PayloadUUID</key>
-			<string>A4F915E1-A5EF-4F4D-9D63-63A054136793</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
-			<key>allowSimple</key>
-			<false/>
-			<key>forcePIN</key>
-			<true/>
-			<key>maxFailedAttempts</key>
-			<integer>5</integer>
-			<key>maxGracePeriod</key>
-			<integer>0</integer>
-			<key>maxInactivity</key>
-			<integer>1</integer>
-			<key>minComplexChars</key>
-			<integer>1</integer>
-			<key>minLength</key>
-			<integer>5</integer>
-			<key>requireAlphanumeric</key>
-			<true/>
-		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
 	<string>DEFCON_MODE</string>
@@ -262,7 +262,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>58A79263-15E7-46A7-93C3-252A72511D04</string>
+	<string>B322921A-E9F5-4966-AADE-6B283D03E80E</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
