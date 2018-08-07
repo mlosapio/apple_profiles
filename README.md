@@ -15,4 +15,7 @@ and download yourself a copy of Apple's Configurator 2 software and load this pr
 Basically it should keep Bluetooth off, wifi off, off iCloud, a strong password to unlock the phone and strict "nuke" options should
 it fall into the wrong hands. 
 
+
+Another important note, once you've designated this device as a "burner device" and visited DEF CON - toss the phone, sell it on eBay or wipe it. Just don't ever reconnect it back to a computer you care about. 
+
 Best of luck!
