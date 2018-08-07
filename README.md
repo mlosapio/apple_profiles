@@ -18,4 +18,6 @@ it fall into the wrong hands.
 
 Another important note, once you've designated this device as a "burner device" and visited DEF CON - toss the phone, sell it on eBay or wipe it. Just don't ever reconnect it back to a computer you care about. 
 
+![WIFI locked out](img/wifi_lockdown.png?raw=true "WIFI Locked out")
+
 Best of luck!
