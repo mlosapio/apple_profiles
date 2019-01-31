@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>CloudPrintProxyEnabled</key>
+			<false/>
+			<key>PasswordManagerEnabled</key>
+			<false/>
+			<key>SyncDisabled</key>
+			<true/>
+			<key>MetricsReportingEnabled</key>
+			<false/>
+			<key>PayloadDescription</key>
+			<string>Google Chrome Settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Google Chrome App Defaults</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>com.google.Chrome.1FCB424D-008B-4FE6-9AD8-B69EE56E7F94</string>
+			<key>PayloadOrganization</key>
+			<string>ABC Corp INC.</string>
+			<key>PayloadType</key>
+			<string>com.google.Chrome</string>
+			<key>PayloadUUID</key>
+			<string>5E254640-570A-4DAF-966C-210F1F69FE71</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>Secure Chrome</string>
+	<key>PayloadIdentifier</key>
+	<string>io.losap.mike.ProfileCreator.8123E326-94EA-4AAC-A485-876ED24A6808</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>8123E326-94EA-4AAC-A485-876ED24A6808</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
